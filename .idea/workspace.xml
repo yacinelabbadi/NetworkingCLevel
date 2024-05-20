@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7776a104-3c78-4d21-af49-4f567c473505" name="Changes" comment="Klar med koden?">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MulticastChatClient_Yassin/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/MulticastChatClient_Yassin/src/MulticastChatClient.java" afterDir="false" />
+    <list default="true" id="7776a104-3c78-4d21-af49-4f567c473505" name="Changes" comment="Börjat med klienten.">
+      <change beforePath="$PROJECT_DIR$/MulticastChatClient_Yassin/src/MulticastChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/MulticastChatClient_Yassin/src/MulticastChatClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MulticastChatClient">
+    <configuration name="MulticastChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MulticastChatClient" />
+      <module name="MulticastChatClient_Yassin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MulticastChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MulticastChatServer" />
       <module name="MulticastChatServer_Yassin" />
@@ -50,6 +56,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MulticastChatClient" />
         <item itemvalue="Application.MulticastChatServer" />
       </list>
     </recent_temporary>
@@ -62,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716212718063</updated>
-      <workItem from="1716212719098" duration="2152000" />
+      <workItem from="1716212719098" duration="2514000" />
     </task>
     <task id="LOCAL-00001" summary="Första commit">
       <option name="closed" value="true" />
@@ -80,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716214129315</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Börjat med klienten.">
+      <option name="closed" value="true" />
+      <created>1716215142483</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716215142483</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Första commit" />
     <MESSAGE value="Klar med koden?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Klar med koden?" />
+    <MESSAGE value="Börjat med klienten." />
+    <option name="LAST_COMMIT_MESSAGE" value="Börjat med klienten." />
   </component>
 </project>
