@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MulticastChatClient_Yassin/MulticastChatClient_Yassin.iml" filepath="$PROJECT_DIR$/MulticastChatClient_Yassin/MulticastChatClient_Yassin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MulticastChatServer_Yassin/MulticastChatServer_Yassin.iml" filepath="$PROJECT_DIR$/MulticastChatServer_Yassin/MulticastChatServer_Yassin.iml" />
       <module fileurl="file://$PROJECT_DIR$/NetworkingCLevel.iml" filepath="$PROJECT_DIR$/NetworkingCLevel.iml" />
     </modules>
   </component>
